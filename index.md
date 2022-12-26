@@ -34,10 +34,27 @@ layout: about
 <br/>
 
 # Skills
+- ## Python
+    - `Flask` 웹 개발 경험이 있습니다. 웹 렌더링과 `REST API`구성 경험이 있습니다.
+    - `TensorFlow 2.0`을 활용하여 간단한 선형 예측 모델을 구성 및 실생활에 적용한 경험이 있습니다.
+    - `Python`을 사용하여 알고리즘 문제를 해결할 수 있습니다.
+    - `Pytorch`를 활용하여 모델링을 할 수 있습니다.
+- ## Javascript
+    - `Node.js` 백엔드 서버 개발 경험이 있습니다. NUGU 스피커 Play와 통신가능한 서버 개발을 진행했습니다.
+    - `React`를 활용하여 웹 페이지를 개발한 경험이 있습니다.
+- ## OPS & ETC
+    - `MLflow` 와 `SFTP` 를 함께 구성하여 우리 팀 협업 스타일에 맞추어 활용한 경험이 있습니다.
+    - `Nginx`와 `Linux` 기반의 서버를 구성하여 외부 서비스에 활용할 수 있습니다.
+- ## CS & Information System
+    - 정보시스템을 전공하며 OS, OOP, Data Structure, Network 등 Computer Science 지식을 갖추었습니다.
+    - 또한 경영학, 마케팅 등 IT 기술들이 산업에 접목되는 사례를 학습하고 경험했습니다.
+
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+사람을 직접 도울 수 있는 유용한 기술에 관심이 많습니다.
+<br/>
+DevOPS / MLOPS 등 개발자를 도울 수 있는 기술들부터
+<br/>
+사람들이 사용하는 다양한 End-To-End 서비스 개발을 좋아합니다.

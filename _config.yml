@@ -1,13 +1,13 @@
 # Site settings
-title: Resume of Yeoncheol Kang
+title: 강연철 이력서
 baseurl: ""
 url: "https://kyc3492.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Yeoncheol Kang
-  desc: Hello nice to meet you
+  name: 반갑습니다. 강연철입니다.
+  desc: Yeoncheol Kang
   email: kyc3492@gmail.com
   selfie: assets/img/profile.jpg
 

@@ -7,17 +7,17 @@ layout: about
 ## <center>배움에 두려움이 없이 항상 정진하는 개발자입니다.</center>
 #### <center>끊임없이 배우는 태도와 적극적으로 소통하는 자세가 좋은 개발자를 만든다고 믿습니다.</center>
 #### <center>타인에게 도움이 될 수 있는 것을 익히자는 생각으로</center>
-#### <center>Backend와 Frontend, AI Engineering을 배운 Junior입니다.</center>
+#### <center>AI Engineering과 Serving을 배운 Junior입니다.</center>
 
 
 <br/>
 
 # Experience
-* ## Boostcamp AI Course 4기 (NLP) (2022.09 ~ )
+* ## 부스트캠프 AI Tech 4기 (NLP) (2022.09 ~ )
   * **Pytorch, Huggingface Transformer를 활용한 자연어 처리 모델링**
     * Pytorch, Pytorch Lightning을 활용한 모델링
-    * Huggingface Transformer 기반 Task 맞춤 Fine-Tuning
-    * Wandb, MLflow를 활용한 MLOPS 구축 경험
+    * Huggingface Transformers 기반 Task 맞춤 Fine-Tuning
+    * Wandb, MLflow를 활용한 MLOps 구축 경험
     * Git-flow를 활용한 팀원들과의 협업 경험
 
 * ## 장교(ROTC 58기) 임관 및 군복무 (2020.03 ~ 2022. 06)
@@ -30,6 +30,23 @@ layout: about
   * **Node.js 기반 Backend 서버 구축 경험**
     * SKT NUGU 스피커 Application 개발과 발화문 관리 + 클라우드 사진 인식 시스템 서버 구축
     * Raspberry Pi를 활용한 임베디드 환경에서의 서버 최적화
+
+<br/>
+
+# Projects
+- ## 누비랩 기업연계 프로젝트
+  - **많은 분량을 적기 위해 열심히 하고 있습니다!!**
+- ## 부스트캠프 AI Tech 대회 참여
+  - **ODQA(MRC) 대회**
+    - 베이스라인 내 `argsort` 메소드를 개선하여 `6배` 추론 속도 상승
+    - `REALM` 논문을 읽고 정리한 내용을 발표
+    - `Wandb`를 활용하여 팀의 `MLOPS`를 구성
+  - **RE(문장 분류) 대회**
+    - `Split & Combine` 모델을 구현하여 베이스라인 대비 `??%` 성능 증가 및 앙상블 기여
+    - 개인 `Linux` 서버를 구축하여 `MLflow`와 `SFTP`를 활용한 `MLOPS` 구성
+  - **STS(문장 유사도 측정) 대회**
+- ## SKT AI 커리큘럼 Capstone Project 우수상 수상
+
 
 <br/>
 
@@ -56,6 +73,6 @@ layout: about
 # Interests
 사람을 직접 도울 수 있는 유용한 기술에 관심이 많습니다.
 <br/>
-DevOPS / MLOPS 등 개발자를 도울 수 있는 기술들부터
+DevOps / MLOps 등 개발자를 도울 수 있는 기술들부터
 <br/>
 사람들이 사용하는 다양한 End-To-End 서비스 개발을 좋아합니다.

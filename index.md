@@ -39,12 +39,15 @@ layout: about
 - ## 부스트캠프 AI Tech 대회 참여
   - **ODQA(MRC) 대회**
     - 베이스라인 내 `argsort` 메소드를 개선하여 `6배` 추론 속도 상승
-    - `REALM` 논문을 읽고 정리한 내용을 발표
+    - `REALM` 논문을 읽고 정리한 내용을 세미나 진행
     - `Wandb`를 활용하여 팀의 `MLOPS`를 구성
   - **RE(문장 분류) 대회**
-    - `Split & Combine` 모델을 구현하여 베이스라인 대비 `??%` 성능 증가 및 앙상블 기여
+    - `Split & Combine` 모델을 구현하여 베이스라인 대비 `Micro f1 score 4` 증가 및 앙상블 기여
     - 개인 `Linux` 서버를 구축하여 `MLflow`와 `SFTP`를 활용한 `MLOPS` 구성
+    - `Streamlit`을 활용한 `Dashboard`에 위 서버로부터 모델 서빙을 구현하여 추론 결과 비교
   - **STS(문장 유사도 측정) 대회**
+    - 데이터를 `EDA` 진행하여 불균형 상태의 데이터를 분석하고 분포를 다양화하여 증강.
+    - `Kfold`를 적용하여 모델 강건성 확립 및 베이스라인 대비 검증 점수 `pearson 0.2` 향상
 - ## SKT AI 커리큘럼 Capstone Project 우수상 수상
 
 

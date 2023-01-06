@@ -49,7 +49,7 @@ layout: about
     - 데이터를 `EDA` 진행하여 불균형 상태의 데이터를 분석하고 분포를 다양화하여 증강
     - `Kfold`를 적용하여 모델 강건성 확립 및 베이스라인 대비 검증 점수 `pearson 0.2` 향상
 - ## SKT AI 커리큘럼 Capstone Project 우수상 수상 (2019)
-  - **음성인식 갤러리 서비스 NUgaller `Backend` 개발**
+  - **음성인식 갤러리 서비스 NUgaller Backend 개발**
     - `NUGU 스피커` 전용 어플리케이션 개발 툴인 `NUBU Builder`를 활용하여 발화문 구성 및 개발
     - `Node.JS`를 활용하여 발화문 관리 API 및 클라우드 사진 분류 기능 구현
     - `Google Vision API`를 활용하여 사진 인식 기능 구현

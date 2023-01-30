@@ -7,8 +7,15 @@ layout: about
 ## <center>배움에 두려움이 없이 항상 정진하는 개발자입니다.</center>
 #### <center>끊임없이 배우는 태도와 적극적으로 소통하는 자세가 좋은 개발자를 만든다고 믿습니다.</center>
 #### <center>타인에게 도움이 될 수 있는 것을 익히자는 생각으로</center>
-#### <center>`AI Engineering / Serving`을 배운 Junior입니다.</center>
+#### <center>AI Engineering / Serving을 배운 Junior입니다.</center>
 
+
+<br/>
+
+# Capabilities
+* ### <u>본부중대장 출신</u>의 확실한 추진력과 탁월한 소통능력
+* ### Ubuntu 세팅부터 MLflow, API 구축 등 <u>범용적인 Linux 활용 능력</u>
+* ### 사용자의 입장에서 생각하는 <u>역지사지형 개발자</u>
 
 <br/>
 
